@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947909350251",
+    "firebase_url": "https://spicles-ca2e0.firebaseio.com",
+    "project_id": "spicles-ca2e0",
+    "storage_bucket": "spicles-ca2e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947909350251:android:d063b78743a804711c722e",
+        "android_client_info": {
+          "package_name": "com.project.Spicles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947909350251-f5qie9og3ieau0g7hga6r75i3g0e79hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.Spicles",
+            "certificate_hash": "9b2c5dcaea08d62c7f95069fbf979d7cda2be2ae"
+          }
+        },
+        {
+          "client_id": "947909350251-l041vp27rn4dkf7r9qqh7f10j1s43vs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWf6oSYu5-NcdfZWfinum2x_HDEz5QT9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947909350251-l041vp27rn4dkf7r9qqh7f10j1s43vs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
